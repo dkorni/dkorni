@@ -7,4 +7,4 @@
 
 Currently working on own 🐕 pet MMO game project "Freedom" based on Unity and filming blogon youtube channel about that.
 
-🔍 Here you can find some of my game examples and other projects
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/3-stats.svg)
